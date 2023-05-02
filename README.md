@@ -1,5 +1,5 @@
 # Medieval Quest
-"Medieval Quest: The Journey Begins" é um jogo de aventura em mundo aberto ambientado em um mundo medieval fantástico. O jogo começa com o jogador assumindo o papel de um jovem herói em busca de sua missão. O jogador pode personalizar seu personagem e escolher entre diferentes classes, como guerreiro, arqueiro ou mago, cada um com suas habilidades e estilo de jogo exclusivos.
+Medieval Quest: The Journey Begins" é um jogo de aventura em mundo aberto ambientado em um mundo medieval fantástico. O jogo começa com o jogador assumindo o papel de um jovem herói em busca de sua missão. O jogador pode personalizar seu personagem e escolher entre diferentes classes, como guerreiro, arqueiro ou mago, cada um com suas habilidades e estilo de jogo exclusivos.
 
 O objetivo principal do jogo é completar missões e explorar o mundo aberto, que inclui cidades medievais, castelos antigos, florestas misteriosas e cavernas perigosas. O jogador deve lutar contra monstros, coletar recursos e interagir com personagens não-jogáveis para progredir na história.
 
